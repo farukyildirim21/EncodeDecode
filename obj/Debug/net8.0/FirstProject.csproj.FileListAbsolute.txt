@@ -1,0 +1,14 @@
+/Users/faruk/netCore/FirstProject/bin/Debug/net8.0/FirstProject
+/Users/faruk/netCore/FirstProject/bin/Debug/net8.0/FirstProject.deps.json
+/Users/faruk/netCore/FirstProject/bin/Debug/net8.0/FirstProject.runtimeconfig.json
+/Users/faruk/netCore/FirstProject/bin/Debug/net8.0/FirstProject.dll
+/Users/faruk/netCore/FirstProject/bin/Debug/net8.0/FirstProject.pdb
+/Users/faruk/netCore/FirstProject/obj/Debug/net8.0/FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/faruk/netCore/FirstProject/obj/Debug/net8.0/FirstProject.AssemblyInfoInputs.cache
+/Users/faruk/netCore/FirstProject/obj/Debug/net8.0/FirstProject.AssemblyInfo.cs
+/Users/faruk/netCore/FirstProject/obj/Debug/net8.0/FirstProject.csproj.CoreCompileInputs.cache
+/Users/faruk/netCore/FirstProject/obj/Debug/net8.0/FirstProject.dll
+/Users/faruk/netCore/FirstProject/obj/Debug/net8.0/refint/FirstProject.dll
+/Users/faruk/netCore/FirstProject/obj/Debug/net8.0/FirstProject.pdb
+/Users/faruk/netCore/FirstProject/obj/Debug/net8.0/FirstProject.genruntimeconfig.cache
+/Users/faruk/netCore/FirstProject/obj/Debug/net8.0/ref/FirstProject.dll
